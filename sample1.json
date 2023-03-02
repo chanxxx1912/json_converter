@@ -1,0 +1,46 @@
+{
+    "name": "Chandana",
+    "age": 23,
+    "address": {
+        "street": "123 Main St",
+        "city": "Bangalore",
+        "state": "karnataka",
+        "zip": "1234500"
+    },
+    "phoneNumbers": [
+        {
+            "type": "home",
+            "number": "99647528268"
+        },
+        {
+            "type": "work",
+            "number": "8147464958"
+        }
+    ],
+    "fruits": [{
+       "grapes": "yes",
+       "mango": "no"
+       
+    }],
+    "yes" : [
+        "yes", "no","yest"
+    ],
+    "sample1array":[{
+        "truth":"dare",
+        "work": "hard",
+        "will": "way"
+
+
+    },
+    {
+        "barline": "moneyheist",
+        "education": "ottus"
+        
+    }
+
+
+]
+
+   
+    
+}
